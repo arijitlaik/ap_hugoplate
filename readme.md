@@ -223,11 +223,3 @@ Copyright (c) 2023 - Present, Designed & Developed by [Zeon Studio](https://zeon
 **Image license:** The images are only for demonstration purposes. They have their license, we don't have permission to share those images.
 
 ---
-
-## 🖼️ Showcase
-
-List of projects people are building with **Hugoplate**! Have you built a project with Hugoplate? Submit it by creating a pull request and we'll feature it here!
-
-| [![Open Neuromorphic](https://tinyurl.com/hp7avtje)](https://open-neuromorphic.org/) | [![AI Models](https://tinyurl.com/mu4p7dhb)](https://aimodels.org/) | [![Hugobricks](https://tinyurl.com/4x3uwhm9)](https://www.hugobricks.preview.usecue.com/) |
-|:---:|:---:|:---:|
-| **Open Neuromorphic** | **AI Models** | **Hugobricks** |

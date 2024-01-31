@@ -38,7 +38,7 @@ preloader = "" # use jpg, png, svg or gif format.
 # Navigation button
 [navigation_button]
 enable = true
-label = "get a quote"
+label = "Get in Touch"
 link = "contact"
 
 # search
@@ -56,10 +56,10 @@ show_categories = true
 # seo meta data for OpenGraph / Twitter Card
 # seo module: https://github.com/gethugothemes/hugo-modules/tree/master/seo-tools/basic-seo
 [metadata]
-keywords = ["Boilerplate", "Hugo"]
-description = "Hugo & Tailwindcss Starter"
-author = "zeon.studio"
-image = "images/og-image.png"
+keywords = ["Appraise", "AI Governance", "Research", "Compliance Challenges", "Regulations"]
+description = "Explore insights on AI governance, compliance challenges, and proposed solutions for organizations. Learn about the impact of regulations, GDPR learnings, and the significance of audit in AI governance."
+author = "Arijit Laik"
+image = "images/logo.png"
 
 
 # site verifications
